@@ -53,7 +53,7 @@ Please reach out for contribution guidelines, details on our code of conduct and
 
 ## License
 
-This project is licensed under a Free Site License. See [License](LICENSE.md) for further details.
+This project is licensed under a [Free Site License CC 3.0](LICENSE.md)
 
 
 
