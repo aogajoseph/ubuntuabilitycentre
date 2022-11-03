@@ -1,6 +1,22 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,300);
 @import url(https://fonts.googleapis.com/css?family=Muli);
 
+.ubuntu-logo {
+	height: 3.7rem;
+	width: 4rem;
+	border-radius: 100%;
+}
+
+.ubuntu-heading {
+	color: orangered;
+	text-transform: uppercase;
+	font-size: 1.4rem;
+	text-align: center;
+	padding-top: .8rem;
+	font-weight: 900;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 body {
   font-family: 'Open Sans', sans-serif;
   background: #fff;
@@ -590,14 +606,19 @@ header.page-header .main-menu{
 	margin-top: 10px;
 }
 .main-menu .navbar-nav{
-    float: right;
-    padding: 20px 0;
+ 	/* float: right; */
+    margin: auto;
 }
+.main-menu-list {
+	display: flex;
+	justify-content: center;
+}
+
 .main-menu .navbar-nav li{
 	display:inline;
 }
 .main-menu .navbar-nav li a{
-    font-size: 13px;
+    font-size: .8rem;
     font-weight: 700;
     color: #fff;
     padding-top: 6px;
@@ -608,7 +629,6 @@ header.page-header .main-menu{
     -o-transition: all .3s;
     transition: all .3s;
     padding: 15px;
-    text-transform: uppercase;
 }
 
 .main-menu .navbar-nav li a:hover,
@@ -1491,7 +1511,7 @@ footer ul li a i{
 
   .main-menu .navbar-nav {
     display: inline-block;
-    float: none;
+    float: right;
   }
 
   .navbar-nav > li {
