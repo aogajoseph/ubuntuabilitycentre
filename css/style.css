@@ -2,9 +2,10 @@
 @import url(https://fonts.googleapis.com/css?family=Muli);
 
 .ubuntu-logo {
-	height: 3.7rem;
-	width: 4rem;
+	height: 3.5rem;
+	width: rem;
 	border-radius: 100%;
+	padding-top: 10px;
 }
 
 .ubuntu-heading {
