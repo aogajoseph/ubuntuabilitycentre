@@ -504,7 +504,7 @@ section#services {
 .section-header h2{
 	/* font-weight: 700; */
 	font-size: 48px;
-	color: #f56108;
+	color: orangered;
 	border-top: none;
 	border-bottom: none;
 	padding: 8px 10px;
@@ -1199,7 +1199,7 @@ header.page-header .main-menu.minified{
 }
 .pricing-plans .pricing-titles{
 	text-align: center;
-	border: 1px solid #f56108;
+	border: 1px solid orangered;
 	border-bottom: 0;
 	padding: 25px 0 15px;
 }
@@ -1214,7 +1214,7 @@ header.page-header .main-menu.minified{
 
 .pricing-plans .pricing-titles p{
 	font-size: 16px;
-	color: #f56108;
+	color: orangered;
 }
 
 .pricing-plans .pricing-titles p span{
@@ -1223,8 +1223,8 @@ header.page-header .main-menu.minified{
 }
 .pricing-plans .pricing-service-name{
 	background-color: #ffffff;
-	border-left: 1px solid #f56108;
-	border-right: 1px solid #f56108;
+	border-left: 1px solid orangered;
+	border-right: 1px solid orangered;
 }
 
 .pricing-plans ul li{
@@ -1240,16 +1240,16 @@ header.page-header .main-menu.minified{
 	padding: 15px 30px;
 	text-align: center;
 	display: inline-block;
-	background: #f7792e;
+	background: orangered;
 }
 .bg-btn {
 	padding: 20px;
 	border-top: none;
-	border: #f56108 solid 1px;
+	border: orangered solid 1px;
 	border-top: none;
 }
 .pricing-plans a.signup-btn:hover{
-	color: #ffffff;
+	color: #B2beb5;
 	background: #d86623;
 }
 
