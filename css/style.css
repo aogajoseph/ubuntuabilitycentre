@@ -684,7 +684,7 @@ header.page-header .main-menu.minified{
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background: rgba(23, 23, 23, 0.75);
+	background: rgba(23, 23, 23, 0.6);
 }
 
 .slider-paragraph {
@@ -1041,7 +1041,7 @@ header.page-header .main-menu.minified{
 	        transition: all .3s;
 }
 .clients-section{
-	background: #f3f3f3;
+	background: transparent;
 	padding: 100px 0 80px;
 }
 .client-item-wrapper {
