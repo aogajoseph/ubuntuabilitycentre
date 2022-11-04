@@ -364,7 +364,11 @@ a:active{
 	padding:100px 0;
 }
 
-.about-heading {
+.strong-subtitle {
+	font-weight: 600;
+}
+
+.sub-heading {
 	color: orangered;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
