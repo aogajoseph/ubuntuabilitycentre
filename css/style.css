@@ -3,8 +3,6 @@
 
 .ubuntu-logo {
 	height: 3.5rem;
-	width: rem;
-	border-radius: 100%;
 	padding-top: 10px;
 }
 
@@ -373,7 +371,6 @@ a:active{
 
 .about-paragraph {
 	color: black;
-	font-weight: 600;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
