@@ -1744,23 +1744,28 @@ footer ul li a i{
   width: 100% !important;
  }
  
-  .portfolio-items .portfolio-item {
-    height: 280px;
+.portfolio-items .portfolio-item {
+	height: 280px;
     overflow: hidden;
     position: relative;
     width: 100%;
   }
-  .service-wrapper > div{
+  
+.service-wrapper > div{
     margin-bottom: 50px;
-  }
- 
-  .contact-section .contact-address {
-    margin-bottom: 50px;
-  }
-
-
 }
  
+.contact-section .contact-address {
+    margin-bottom: 50px;
+}
+
+}
+
+.icon-image {
+	height: 4.5em;
+	filter: brightness(100%);
+}
+
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
  
